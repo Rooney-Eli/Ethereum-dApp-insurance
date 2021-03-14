@@ -17,7 +17,7 @@ react: deposit coverage amount into contract using account[0]
 react: End policy?  
   
 Insurance Client Steps:  
-react: Deposit payment  
+react: Deposit payment using account[1]  
 react: claim policy?  
   
 
